@@ -6,5 +6,5 @@
 
 全能字幕插件参考https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853#0bc9433d84f8404fab885b16bf50e015
 
-图标地址https://github.com/Orz-3/mini
+图标地址https://github.com/Orz-3/mini     
        https://github.com/Orz-3/face
