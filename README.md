@@ -1,4 +1,4 @@
-# qx-simple
+# qx-cmka 配置
 
 自用规则 常规分流 去广告
 
