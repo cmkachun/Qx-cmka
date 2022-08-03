@@ -1,6 +1,6 @@
 # Qx-cmka 懒人配置
 
-常用分流 去广告 
+常用分流 去广告 自用版本 
 
 其他设置里Geolote2处填写使用https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
 
