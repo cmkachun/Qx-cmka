@@ -11,3 +11,6 @@
 
 链路检测2.0 
 https://cn.telegram-store.com/catalog/channels/nobyda/427
+
+脚本去boxjs设置
+参考教程https://github.com/chavyleung/scripts
