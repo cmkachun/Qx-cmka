@@ -9,8 +9,7 @@ HOST-SUFFIX,img-cf.xvideos-cdn.com,xvideos
 HOST-SUFFIX,static-l3.xvideos-cdn.com,xvideos
 HOST-SUFFIX,img-l3.xvideos-cdn.com,xvideos
 HOST-SUFFIX,hls-hw.xvideos-cdn.com,xvideos
-HOST-KEYWORD,xvideos,Xvideos
-USER-AGENT,Xvideos*,xvideos
+
 # NAME: pornhub
 # AUTHOR: cmka
 # UPDATED: 2022-08-05 22:37:44
@@ -25,6 +24,3 @@ HOST-SUFFIX,d1m-h.phncdn.com,pornhub
 HOST-SUFFIX,dw.phncdn.com,pornhub
 HOST-SUFFIX,ds.phncdn.com,pornhub
 HOST-SUFFIX,di.phncdn.com,pornhub
-HOST-KEYWORD,pornhub,Pornhub
-USER-AGENT,PornHub*,Pornhub
-
