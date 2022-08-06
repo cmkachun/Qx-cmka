@@ -1,13 +1,13 @@
 # NAME: xvideos
 # AUTHOR: cmka
 # UPDATED: 2022-08-05 22:37:44
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com,18bear
+DOMAIN-SUFFIX,xvideos-cdn.com,18bear
 
 # NAME: pornhub
 # AUTHOR: cmka
 # UPDATED: 2022-08-05 22:37:44
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,phncdn.com,18bear
+DOMAIN-SUFFIX,phprcdn.com,18bear
+DOMAIN-SUFFIX,pornhub.com,18bear
+DOMAIN-SUFFIX,pornhubpremium.com,18bear
