@@ -1,17 +1,13 @@
 # NAME: xvideos
 # AUTHOR: cmka
 # UPDATED: 2022-08-05 22:37:44
-HOST,www.xvideos.com,xvideos
-HOST-SUFFIX,img-hw.xvideos-cdn.com,xvideos
-HOST-SUFFIX,cdn77-vid.xvideos-cdn.com,xvideos
-HOST-SUFFIX,static-l3.xvideos-cdn.com,xvideos
-HOST-SUFFIX,img-l3.xvideos-cdn.com,xvideos
-HOST-SUFFIX,hls-hw.xvideos-cdn.com,xvideos
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
 
 # NAME: pornhub
 # AUTHOR: cmka
 # UPDATED: 2022-08-05 22:37:44
-HOST,www.pornhub.com,pronhub
-DOMAIN-SUFFIX,phncdn.com,ForeignMedia
-DOMAIN-SUFFIX,pornhub.com,ForeignMedia
-DOMAIN-SUFFIX,pornhubpremium.com,ForeignMedia
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
