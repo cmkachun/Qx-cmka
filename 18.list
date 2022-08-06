@@ -13,19 +13,6 @@ HOST-SUFFIX,hls-hw.xvideos-cdn.com,xvideos
 # UPDATED: 2022-08-05 22:37:44
 HOST,www.pornhub.com,pronhub
 HOST,www.etahub.com,pornhub
-HOST-SUFFIX,cn.pornhub.com,pornhub
-HOST-SUFFIX,etahub.com,pornhub
-HOST-SUFFIX,evtubescms.phncdn.com,pornhub
-HOST-SUFFIX,ew.phncdn.com,pornhub
-HOST-SUFFIX,ei.phncdn.com,pornhub
-HOST-SUFFIX,ss.phncdn.com,pornhub
-HOST-SUFFIX,e1m-h.phncdn.com,pornhub
-HOST-SUFFIX,d1m-h.phncdn.com,pornhub
-HOST-SUFFIX,dw.phncdn.com,pornhub
-HOST-SUFFIX,ds.phncdn.com,pornhub
-HOST-SUFFIX,di.phncdn.com,pornhub
-HOST-SUFFIX,media.trafficjunky.com,pornhub
-HOST-SUFFIX,static.trafficjunky.com,pornhub
-HOST-SUFFIX,hubt.pornhub.com,pornhub
-HOST-SUFFIX,cdn1-smallimg.phncdn.com,pornhub
-HOST-SUFFIX,cdn1d-static-shared.phncdn.com,pornhub
+DOMAIN-SUFFIX,phncdn.com,ForeignMedia
+DOMAIN-SUFFIX,pornhub.com,ForeignMedia
+DOMAIN-SUFFIX,pornhubpremium.com,ForeignMedia
