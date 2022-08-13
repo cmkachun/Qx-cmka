@@ -1,4 +1,5 @@
 # Qx-cmka 懒人配置
+https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-cmka0010.conf
 
 ![Alt text](https://github.com/cmkachun/Qx-cmka/raw/main/DA0CD0EB-5264-4FC9-9739-9A60D75F4E53.png)
 
