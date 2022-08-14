@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 常用分流 去广告 自用版本 
 
+默认开启ipv6 不使用去掉注释#
+已配置doh服务 开启去掉注释# 开启后其他dns解析失效
 其他设置里Geolote2处填写使用https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
 
 全能字幕插件参考https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853#0bc9433d84f8404fab885b16bf50e015
