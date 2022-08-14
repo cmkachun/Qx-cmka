@@ -1,5 +1,6 @@
 # Qx-cmka 懒人配置
-https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-cmka0010.conf
+
+https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 ![Alt text](https://github.com/cmkachun/Qx-cmka/raw/main/DA0CD0EB-5264-4FC9-9739-9A60D75F4E53.png)
 
@@ -15,4 +16,9 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-cmka0010.conf
 
 脚本去boxjs设置
 参考教程https://github.com/chavyleung/scripts
+
+sub-store教程
+https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
+
+
 
