@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 常用分流 去广告 自用版本 
 
-默认开启ipv6 已配置doh3服务解析速度与dns差不多但是更加注重隐私
 
 其他设置里Geolote2处填写使用https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
 
