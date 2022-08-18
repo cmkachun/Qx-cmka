@@ -11,8 +11,7 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 全能字幕插件参考https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853#0bc9433d84f8404fab885b16bf50e015
 
-图标地址https://github.com/Orz-3/mini     
-       https://github.com/Orz-3/face
+图标订阅 https://github.com/ddgksf2013/Cuttlefish/blob/master/Icon/README.md
 
 
 脚本去boxjs设置
