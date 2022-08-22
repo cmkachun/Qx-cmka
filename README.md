@@ -2,7 +2,7 @@
 
 https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
-![Alt text](https://github.com/cmkachun/Qx-cmka/raw/main/DA0CD0EB-5264-4FC9-9739-9A60D75F4E53.png)
+![Alt text](https://github.com/cmkachun/Qx-cmka/raw/main/C205FE6F-5465-44AE-A6C8-56E22872C1B2.jpeg)
 
 常用分流 去广告 自用版本 
 
