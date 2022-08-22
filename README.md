@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 常用分流 去广告 自用版本 
 
+为了隐私与安全默认开启doh3 dns服务 默认开启ipv6
 
 其他设置里Geolote2处填写使用https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
 
@@ -16,9 +17,6 @@ https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
 
 脚本去boxjs设置
 参考教程https://github.com/chavyleung/scripts
-
-sub-store教程
-https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46
 
 
 
