@@ -1,6 +1,6 @@
 # Qx-cmka 懒人配置
 
-https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-0813.conf
+https://raw.githubusercontent.com/cmkachun/Qx-cmka/main/quantumult-x-cmka.conf
 
 ![Alt text](https://github.com/cmkachun/Qx-cmka/raw/main/C205FE6F-5465-44AE-A6C8-56E22872C1B2.jpeg)
 
