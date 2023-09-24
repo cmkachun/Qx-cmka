@@ -1,4 +1,4 @@
-
+qx国内外分流配置，去广告
 
 其他设置里Geolote2处填写使用https://gitlab.com/Masaiki/GeoIP2-CN/-/raw/release/Country.mmdb
 
